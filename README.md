@@ -24,7 +24,7 @@ A WordPress code snippet to display categories with a "Show All" button at the b
 ## Output Screenshot:
 ![image](https://github.com/user-attachments/assets/1dd915a6-b561-4523-b1b6-040173c80ce6)
 
-After Click on "Show All" button: <br>
+## After Click on "Show All" button: <br>
 ![image](https://github.com/user-attachments/assets/4a30b03c-ea77-4a1c-97d7-23fdfcc58d3c)
 
 
